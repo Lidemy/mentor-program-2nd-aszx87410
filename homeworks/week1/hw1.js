@@ -1,3 +1,3 @@
 function printStars(n) {
-  console.log('*!')  
+  console.log('*!~~')  
 }
